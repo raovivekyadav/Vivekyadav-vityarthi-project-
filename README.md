@@ -1,4 +1,6 @@
-problem statement:-This is a program called ATM simulation system . It helps the user to give simple idea for how ATM works.                           
+problem statement:-This is a program called ATM simulation system . It helps the user to give simple idea for how ATM works. 
+
+
 Algorithm:-1. START
            2. Initialize:the account_balance
                account_balance = 785000
